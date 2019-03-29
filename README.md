@@ -1,5 +1,5 @@
 # go-server
-I'm learning Go and decided to combine it with my web development knowledge.
+I'm learning Go and decided to combine it with my web development knowledge. Maybe as I learn you can learn as-well. I plan to have fun with this.
 
 # use
 Clone this repository to the directory of your choice before doing anything else.
